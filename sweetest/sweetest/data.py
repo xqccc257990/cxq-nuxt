@@ -1,7 +1,7 @@
 import xlrd
-from sweetest.utility import Excel, data2dict
-from sweetest.config import header
-from sweetest.globals import g
+from sweetest.sweetest.utility import Excel, data2dict
+from sweetest.sweetest.config import header
+from sweetest.sweetest.globals import g
 
 
 def testsuite_format(data):
